@@ -6,5 +6,4 @@
 - <a href="https://discord.com/users/776443229893034064/">@ZTRdiamond</a>
 - <a href="https://discord.com/users/922265700876304425/">@Dappy</a>
 - <a href="https://discord.com/users/907511417429700608/">@Razon</a>
-- <a href="https://discord.com/users/907511417429700608/">@Razon</a>
 - <a href="https://discord.com/users/882437979409362944">@KucingPoi</a>
