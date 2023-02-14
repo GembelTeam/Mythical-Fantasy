@@ -7,3 +7,5 @@
 - <a href="https://discord.com/users/922265700876304425/">@Dappy</a>
 - <a href="https://discord.com/users/907511417429700608/">@Razon</a>
 - <a href="https://discord.com/users/882437979409362944">@KucingPoi</a>
+
+<h4>⚪ This project will published soon.</h4>
